@@ -1,0 +1,14 @@
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.deps.json
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.runtimeconfig.json
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.dll
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.pdb
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.csproj.AssemblyReference.cache
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.AssemblyInfoInputs.cache
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.AssemblyInfo.cs
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.csproj.CoreCompileInputs.cache
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.dll
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\refint\WIUT.DAL.dll
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.pdb
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.genruntimeconfig.cache
+E:\Users\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\ref\WIUT.DAL.dll

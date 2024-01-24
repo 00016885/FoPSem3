@@ -1,0 +1,51 @@
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.exe
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.deps.json
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.runtimeconfig.json
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.dll
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.pdb
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.Form1.resources
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.csproj.GenerateResource.cache
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.GeneratedMSBuildEditorConfig.editorconfig
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.AssemblyInfoInputs.cache
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.AssemblyInfo.cs
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.csproj.CoreCompileInputs.cache
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.sourcelink.json
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.dll
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\refint\WIUT.dll
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.pdb
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.genruntimeconfig.cache
+e:\WIUT\Seminars\TW 14\WIUT\WIUT\obj\Debug\net6.0-windows\ref\WIUT.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.csproj.AssemblyReference.cache
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.Form1.resources
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.csproj.GenerateResource.cache
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.AssemblyInfoInputs.cache
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.AssemblyInfo.cs
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.csproj.CoreCompileInputs.cache
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\refint\WIUT.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.pdb
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.exe
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.deps.json
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.runtimeconfig.json
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.pdb
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.DAL.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\WIUT.DAL.pdb
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.csproj.CopyComplete
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\WIUT.genruntimeconfig.cache
+E:\Users\00016885\Desktop\WIUT\WIUT\obj\Debug\net6.0-windows\ref\WIUT.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\EntityFramework.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\00016885\Desktop\WIUT\WIUT\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
